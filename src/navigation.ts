@@ -13,7 +13,7 @@ export const footerData = {
         { text: 'WebSite', href: 'https://nuovotaka.com' },
         { text: 'Blog', href: 'https://blog.nuovotaka.com' },
         { text: 'DIY Keyboard Shop', href: 'https://nuovotaka-kbd.stores.jp' },
-        // { text: 'Leather Craft Shop', href: 'https://nuovotaka-leather.stores.jp' },
+        { text: 'Leather Craft Shop', href: 'https://nuovotaka-leather.stores.jp' },
       ],
     },
   ],

@@ -10,7 +10,7 @@ export const footerData = {
       title: 'About Us',
       links: [
         { text: 'About', href: '/about' },
-        { text: 'WebSite', href: 'https://nuovotaka.com' },
+        { text: 'WebSite', href: 'https://www.nuovotaka.com' },
         { text: 'Blog', href: 'https://blog.nuovotaka.com' },
         { text: 'DIY Keyboard Shop', href: 'https://nuovotaka-kbd.stores.jp' },
         { text: 'Leather Craft Shop', href: 'https://nuovotaka-leather.stores.jp' },
@@ -26,6 +26,6 @@ export const footerData = {
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/nuovotaka' },
   ],
   footNote: `
-    <a class="text-blue-600 underline dark:text-muted" href="https://nuovotaka.com/">nuovotaka</a> · All rights reserved.
+    <a class="text-blue-600 underline dark:text-muted" href="https://www.nuovotaka.com/">nuovotaka</a> · All rights reserved.
   `,
 };
